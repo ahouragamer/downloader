@@ -1,0 +1,15 @@
+//fa.wikipedia.org/wiki/پرونده:Commons-logo.svg
+//fa.wikipedia.org/wiki/پرونده:Matsue_castle_keep_DSC02052.jpg
+//fa.wikipedia.org/wiki/پرونده:Symbol_category_class.svg
+//fa.wikipedia.org/wiki/پرونده:TaroTokyo20110213-TokyoTower-01.jpg
+//fa.wikipedia.org/wiki/پرونده:Tokyo_Tower_Afterglow.JPG
+//fa.wikipedia.org/wiki/پرونده:Tokyo_Tower_at_night_2.JPG
+//fa.wikipedia.org/wiki/پرونده:Tokyo_tower_constuction.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/3/37/TaroTokyo20110213-TokyoTower-01.jpg/330px-TaroTokyo20110213-TokyoTower-01.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png
+//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png
+//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tokyo_Tower_Afterglow.JPG/120px-Tokyo_Tower_Afterglow.JPG
+//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png
+//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Matsue_castle_keep_DSC02052.jpg/40px-Matsue_castle_keep_DSC02052.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tokyo_Tower_at_night_2.JPG/120px-Tokyo_Tower_at_night_2.JPG
+//upload.wikimedia.org/wikipedia/fa/thumb/e/e9/Tokyo_tower_constuction.jpg/120px-Tokyo_tower_constuction.jpg

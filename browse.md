@@ -8,3 +8,4 @@
 - [https___www_pinterest_com_ideas_iphone_wallpaper_japan_960356535880_ (20260510_011803)](pages/pinterest.com/https___www_pinterest_com_ideas_iphone_wallpaper_japan_960356535880_/20260510_011803/index.md) — 35 media files
 - [https___www_uhdpaper_com_2025_06_1415g_japanese_garden_night_full_moon_4k_html_m_1 (20260510_014929)](pages/uhdpaper.com/https___www_uhdpaper_com_2025_06_1415g_japanese_garden_night_full_moon_4k_html_m_1/20260510_014929/index.md) — 0 media files
 - [https___www_mordeo_org_wallpapers_tokyo_tower_japan_night_cityscape_ (20260510_022609)](pages/mordeo.org/https___www_mordeo_org_wallpapers_tokyo_tower_japan_night_cityscape_/20260510_022609/index.md) — 9 media files
+- [https___fa_wikipedia_org_wiki__D8_A8_D8_B1_D8_AC__D8_AA_D9_88_DA_A9_DB_8C_D9_88 (20260510_023907)](pages/fa.wikipedia.org/https___fa_wikipedia_org_wiki__D8_A8_D8_B1_D8_AC__D8_AA_D9_88_DA_A9_DB_8C_D9_88/20260510_023907/index.md) — 15 media files
